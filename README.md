@@ -38,6 +38,7 @@ sudo convert2rhel --auto-attach --username=USERNAME
 
 ## TODO
 - Use Ansible to convert various centos
+    - [Ref - convert2rhel/ansible](https://github.com/oamg/convert2rhel/tree/main/ansible)
 
 
 ## Reference
