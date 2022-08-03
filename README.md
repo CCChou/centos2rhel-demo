@@ -30,7 +30,7 @@ Install convert2rhel
 sudo yum -y install convert2rhel
 ```
 
-Start convertion
+Start conversion
 ```
 sudo convert2rhel --auto-attach --username=USERNAME
 ```
